@@ -1,6 +1,6 @@
 # mypro_sowmya
 <html>
   <body>
-      this is first html program
+      this is html program
   </body>
 </html>
